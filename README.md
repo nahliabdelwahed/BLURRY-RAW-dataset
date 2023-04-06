@@ -17,6 +17,4 @@ Foundation of China (NSFC) Grants under No. 62071284,
 Research and Development Program of China (Grant No.
 2017YEF0121400), and research funds from Shanghai
 Institute for Advanced Communication and Data Science
-(SICS). The authors thank the entire research team for the
-constructive discussions, and the (SICS) for the computational
-resources..
+(SICS).
