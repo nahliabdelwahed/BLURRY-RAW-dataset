@@ -1,4 +1,4 @@
-# Sensor-Raw-Data for Blur Effect Prevention
+# Camera Sensor-Raw-Data for video Blur Effect Prevention
 
 ## RAW-BLUR dataset
 
